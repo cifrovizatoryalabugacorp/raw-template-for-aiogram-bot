@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings": 
+	{
+		// "SublimeLinter.linters.flake8.executable": 
+		// 	["/Full/Path/to/env/bin/python", "-m", "flake8"],
+		// "SublimeLinter.linters.mypy.executable": 
+		// 	["/Full/Path/to/env/bin/python", "-m", "mypy"]
+	},
+    "initializationOptions": {
+        "globalSettings": {
+            "interpreter": ["./env/bin/python"],
+        },
+    },
+}
